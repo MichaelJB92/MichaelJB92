@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelJB92
-- 👀 I’m interested in data and business analytics
-- 🌱 I’m currently learning Python, SQL, Tableau, Excel 
+- 👀 I’m interested in the quantitive analysis of data and figuring the world out. 
+- 🌱 I’m currently learning python libraries matplotlib, pandas, numpy, and linear regression.
 - 💞️ I’m looking to collaborate on Projects for my portfolio
 - 📫 How to reach me - Michael.J.Bey@gmail.com
 
